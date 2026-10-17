@@ -155,3 +155,6 @@ Part of the Ingenious AI security toolkit. Our platforms are in early access —
 - [Agent Auth Gateway](https://wa.me/5016691053?text=Hi%20Ingenious%20AI!%20I%20want%20early%20access%20to%20Agent%20Auth%20Gateway) — agent budget caps & kill switch
 - [DomainGuard](https://wa.me/5016691053?text=Hi%20Ingenious%20AI!%20I%20want%20early%20access%20to%20DomainGuard) — domain-impersonation defense
 - [ContentCraft AI](https://wa.me/5016691053?text=Hi%20Ingenious%20AI!%20I%20want%20early%20access%20to%20ContentCraft%20AI) — AI content studio
+
+
+> Built by Ingenious AI with Muse — get free tokens with invite code `2HCQH1`
